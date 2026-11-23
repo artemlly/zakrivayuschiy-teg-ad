@@ -1,1 +1,1 @@
-https://artemlly.github.io/zakrivayuschiy-teg-ad/
+https://github.com/artemlly/zakrivayuschiy-teg-ad.git
